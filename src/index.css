@@ -1,0 +1,45 @@
+.card {
+    min-width: 300px;
+    max-height: 490px;
+    margin-right: 10px;
+}
+
+.cards-container {
+    margin-top: 10px;
+}
+
+.btn-favorite {
+    color: yellow;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.btn-favorite:hover {
+    background-color: yellow;
+
+}
+
+.btn-favorite:hover i {
+    font-weight: 900;
+    color: black;
+}
+
+.fa-heart.favorite {
+    color: yellow;
+}
+
+.col-details {
+    color: red;
+}
+
+.img-container {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
